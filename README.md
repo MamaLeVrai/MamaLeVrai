@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm 18 years I studies on caen sup Sainte-Ursules. My passion is 3D printing and everything that surrounds it.
+Welcome to my GitHub profile! I'm 18 years I studies on caen sup Sainte-Ursules. My passion is 3D printing and everything that surrounds it. I have 3 printer, a CR 10 smart pro, a Dagoma Magis and a Voron 2.4 R2. if you want a print contact me ;)
 
 ### Learned at University
 - **HTML**: Building the structure of web pages.
