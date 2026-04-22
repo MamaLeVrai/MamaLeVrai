@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm 18 years I studies on caen sup Sainte-Ursules.
 - mail pro : marius.margueray@sts-sio-caen.info
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MamaLeVrai&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 ### My school
 
 ![Outlook-nisxcmat](https://github.com/user-attachments/assets/1fe983b2-2330-429a-a0c0-6ff52fd383a2)
